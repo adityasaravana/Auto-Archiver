@@ -1,5 +1,4 @@
 # Save to the Wayback Machine
-![Screenshot](assets/screenshots/readme-screenshot.png)
 
 Browser extension for quickly saving web pages to the Internet Archive's [Wayback Machine](https://web.archive.org).
 
@@ -10,11 +9,7 @@ Browser extension for quickly saving web pages to the Internet Archive's [Waybac
 * Open archived versions of pages, images and links via the right click menu.
 * Keep track of the number of pages that you have archived.
 
-## Download
-[![Download from Firefox add-ons](assets/badges/firefox.png)](https://addons.mozilla.org/firefox/addon/save-to-the-wayback-machine/)
-[![Download from the Google Chrome Web Store](assets/badges/chrome.png)](https://chrome.google.com/webstore/detail/save-to-the-wayback-machi/eebpioaailbjojmdbmlpomfgijnlcemk)
-[![Download from Microsoft Edge Addons](assets/badges/ms-edge-chromium.png)](https://microsoftedge.microsoft.com/addons/detail/iooklpgaeiailiicahcjomphppicpgoo)
-
+## Privacy Policy
 [Privacy Policy](PRIVACY.md) - [Browser Permissions](PRIVACY.md#browser-permissions) - [Installing in other browsers](INSTALL.md)
 
 ## Dependencies
